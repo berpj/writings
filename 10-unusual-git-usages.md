@@ -16,11 +16,17 @@
 
 #### Research papers:
 
+ex: https://github.com/papers-we-love/papers-we-love
+
 #### Cooking recipes:
+
+ex: https://github.com/sinker/tacofancy
 
 #### Books:
  
-#### Blogging (ex: this blog, personal diaries):
+#### Blogging:
+
+ex: this blog, personal diaries
 
 #### Legal documents:
 	
