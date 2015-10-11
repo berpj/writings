@@ -1,9 +1,11 @@
+# Datacube.io - Backup as a Service
+
 *This article is written in French because we're talking about a service currently only available in French. :)*
 
 Aujourd'hui, je suis très heureux d'annoncer officiellement le lancement en beta de [Datacube.io](https://datacube.io) !
 
 
-###Le problème à résoudre
+### Le problème à résoudre
 
 Quand on administre l'infrastructure technique d'une startup, que ce soit en tant que développeur, CTO, ou encore CEO, on est toujours confronté à **la nécessité d'effectuer des backups**.
 
@@ -15,7 +17,7 @@ Plusieurs possibilités s'offrent à nous, mais aucune n'est vraiment satisfaisa
 
 Aujourd'hui, quand on est une startup, il n'existe **pas de solution efficace et abordable pour gérer tous ses backups**.
 
-###La solution
+### La solution
 
 [Datacube.io](https://datacube.io) est le premier SaaS qui vous permet de backup facilement l'ensemble de votre startup. C'est le *Backup as a Service*.
 
@@ -39,7 +41,7 @@ Datacube.io est utilisé avec succès depuis plusieurs semaines par [Zenlink](ht
 Il est temps de commencer à accepter d'autres utilisateurs.
 
 
-###Testez par vous même
+### Testez par vous même
 
 **Rendez-vous sur [datacube.io](https://datacube.io) et créez un compte, c'est gratuit.** Vous recevrez dans la journée un email de ma part pour accéder à la beta.
 

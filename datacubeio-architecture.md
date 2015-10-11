@@ -1,3 +1,5 @@
+# Datacube.io Architecture
+
 [Datacube.io](https://datacube.io) is a SaaS backup service for startups. It lets you set up backups for all your servers, databases, and even git repositories, in just a few minutes.
 
 Here is our architecture.

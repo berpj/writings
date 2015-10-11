@@ -1,3 +1,5 @@
+# My 2015 reading list (and how to keep track of books)
+
 Starting in July, I have decided to read at least a book every two weeks. I choose them in various categories, such as engineering, business, sci-fi or biographies.
 
 *On a side note, this bookshelf picture is very ironic. I got rid of my physical bookshelf and most of my books a few weeks ago, and bought [a Kindle](http://www.amazon.com/All-New-Kindle-Paperwhite-High-Resolution-Display/dp/B00OQVZDJM). For 120$ you can have all your books at hand, wherever you are, and get a better user experience (backlight, translator, dictionary, etc.). Moreover, with the current prices, you can expect this device to pay for itself in about 20 books.*

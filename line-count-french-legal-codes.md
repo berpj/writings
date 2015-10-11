@@ -1,3 +1,5 @@
+# Evolution of the number of lines in french legal codes
+
 A few weeks ago I created a Ruby script that counts the number of lines of a Github repository and makes a graph of it. You can find this project [here](https://github.com/berpj/graph-git).
 
 It was originally intended to graph technical projects, but what if we apply it to a repository containing the [french legal codes](https://github.com/steeve/france.code-civil)?
